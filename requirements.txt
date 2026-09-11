@@ -1,0 +1,6 @@
+mujoco>=3.2
+numpy>=1.26
+cvxpy>=1.5
+osqp>=0.6
+pyzmq>=26
+matplotlib>=3.8
